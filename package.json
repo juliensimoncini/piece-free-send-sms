@@ -1,0 +1,23 @@
+{
+  "name": "piece-free-send-sms",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliensimoncini/piece-free-send-sms.git"
+  },
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@activepieces/pieces-framework": "^0.7.46",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
+}
