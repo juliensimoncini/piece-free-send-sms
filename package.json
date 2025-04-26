@@ -1,8 +1,9 @@
 {
-  "name": "piece-free-send-sms",
+  "name": "@jsimoncini/piece-free-send-sms",
   "version": "0.0.1",
-  "description": "",
+  "description": "Cette pièce Activepieces permet d’envoyer des SMS via l’API gratuite de Free Mobile.",
   "main": "src/index.ts",
+  "author": "Julien SIMONCINI <julien@simoncini.fr> (https://julien.id)",
   "license": "MIT",
   "repository": {
     "type": "git",
