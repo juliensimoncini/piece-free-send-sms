@@ -8,7 +8,6 @@
     "type": "git",
     "url": "https://github.com/juliensimoncini/piece-free-send-sms.git"
   },
-  "private": true,
   "scripts": {
     "build": "tsc"
   },
